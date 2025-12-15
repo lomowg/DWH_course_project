@@ -1,0 +1,6 @@
+channel_code,channel_name,channel_type
+CH_ONLINE,Online Banking,online
+CH_APP,Mobile App,online
+CH_RETAIL,Retail Store,offline
+CH_TERMINAL,Payment Terminal,offline
+CH_PARTNER,Partner Network,partner

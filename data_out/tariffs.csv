@@ -1,0 +1,9 @@
+tariff_code,tariff_name,tariff_type,is_active,valid_from,valid_to
+T01,Smart Start,data_oriented,True,2023-01-01,
+T02,Voice Plus,voice,True,2023-01-01,
+T03,Family Pack,convergent,True,2023-01-01,
+T04,Unlimited 4G,data_oriented,True,2023-01-01,
+T05,Premium Max,premium,True,2023-01-01,
+T06,Business Pro,b2b,True,2023-01-01,
+T07,Student,youth,True,2023-01-01,
+T08,Roaming Lite,addon,True,2023-01-01,

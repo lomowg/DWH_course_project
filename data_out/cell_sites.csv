@@ -1,0 +1,501 @@
+cell_id,country,region,city,technology,site_name
+CELL_00001,Russia,Moscow,Moscow,4G,Site MOS-00001
+CELL_00002,Russia,Saint Petersburg,Saint Petersburg,5G,Site SAI-00002
+CELL_00003,Russia,Moscow,Moscow,4G,Site MOS-00003
+CELL_00004,Russia,Moscow,Moscow,5G,Site MOS-00004
+CELL_00005,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00005
+CELL_00006,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00006
+CELL_00007,Russia,Krasnodar Krai,Krasnodar,3G,Site KRA-00007
+CELL_00008,Russia,Moscow,Moscow,4G,Site MOS-00008
+CELL_00009,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00009
+CELL_00010,Russia,Novosibirsk Oblast,Novosibirsk,5G,Site NOV-00010
+CELL_00011,Russia,Moscow,Moscow,4G,Site MOS-00011
+CELL_00012,Russia,Krasnodar Krai,Krasnodar,3G,Site KRA-00012
+CELL_00013,Russia,Sverdlovsk Oblast,Yekaterinburg,3G,Site SVE-00013
+CELL_00014,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00014
+CELL_00015,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00015
+CELL_00016,Russia,Moscow,Moscow,4G,Site MOS-00016
+CELL_00017,Russia,Novosibirsk Oblast,Novosibirsk,3G,Site NOV-00017
+CELL_00018,Russia,Moscow,Moscow,5G,Site MOS-00018
+CELL_00019,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00019
+CELL_00020,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00020
+CELL_00021,Russia,Moscow,Moscow,4G,Site MOS-00021
+CELL_00022,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00022
+CELL_00023,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00023
+CELL_00024,Russia,Moscow,Moscow,4G,Site MOS-00024
+CELL_00025,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00025
+CELL_00026,Russia,Saint Petersburg,Saint Petersburg,5G,Site SAI-00026
+CELL_00027,Russia,Sverdlovsk Oblast,Yekaterinburg,3G,Site SVE-00027
+CELL_00028,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00028
+CELL_00029,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00029
+CELL_00030,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00030
+CELL_00031,Russia,Saint Petersburg,Saint Petersburg,5G,Site SAI-00031
+CELL_00032,Russia,Moscow,Moscow,5G,Site MOS-00032
+CELL_00033,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00033
+CELL_00034,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00034
+CELL_00035,Russia,Sverdlovsk Oblast,Yekaterinburg,3G,Site SVE-00035
+CELL_00036,Russia,Moscow,Moscow,4G,Site MOS-00036
+CELL_00037,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00037
+CELL_00038,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00038
+CELL_00039,Russia,Saint Petersburg,Saint Petersburg,5G,Site SAI-00039
+CELL_00040,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00040
+CELL_00041,Russia,Moscow,Moscow,4G,Site MOS-00041
+CELL_00042,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00042
+CELL_00043,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00043
+CELL_00044,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00044
+CELL_00045,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00045
+CELL_00046,Russia,Saint Petersburg,Saint Petersburg,5G,Site SAI-00046
+CELL_00047,Russia,Sverdlovsk Oblast,Yekaterinburg,3G,Site SVE-00047
+CELL_00048,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00048
+CELL_00049,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00049
+CELL_00050,Russia,Krasnodar Krai,Krasnodar,3G,Site KRA-00050
+CELL_00051,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00051
+CELL_00052,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00052
+CELL_00053,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00053
+CELL_00054,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00054
+CELL_00055,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00055
+CELL_00056,Russia,Moscow,Moscow,4G,Site MOS-00056
+CELL_00057,Russia,Moscow,Moscow,5G,Site MOS-00057
+CELL_00058,Russia,Moscow,Moscow,5G,Site MOS-00058
+CELL_00059,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00059
+CELL_00060,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00060
+CELL_00061,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00061
+CELL_00062,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00062
+CELL_00063,Russia,Moscow,Moscow,4G,Site MOS-00063
+CELL_00064,Russia,Sverdlovsk Oblast,Yekaterinburg,3G,Site SVE-00064
+CELL_00065,Russia,Moscow,Moscow,5G,Site MOS-00065
+CELL_00066,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00066
+CELL_00067,Russia,Saint Petersburg,Saint Petersburg,5G,Site SAI-00067
+CELL_00068,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00068
+CELL_00069,Russia,Moscow,Moscow,4G,Site MOS-00069
+CELL_00070,Russia,Krasnodar Krai,Krasnodar,5G,Site KRA-00070
+CELL_00071,Russia,Krasnodar Krai,Krasnodar,3G,Site KRA-00071
+CELL_00072,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00072
+CELL_00073,Russia,Sverdlovsk Oblast,Yekaterinburg,3G,Site SVE-00073
+CELL_00074,Russia,Moscow,Moscow,4G,Site MOS-00074
+CELL_00075,Russia,Sverdlovsk Oblast,Yekaterinburg,3G,Site SVE-00075
+CELL_00076,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00076
+CELL_00077,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00077
+CELL_00078,Russia,Novosibirsk Oblast,Novosibirsk,3G,Site NOV-00078
+CELL_00079,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00079
+CELL_00080,Russia,Moscow,Moscow,4G,Site MOS-00080
+CELL_00081,Russia,Krasnodar Krai,Krasnodar,5G,Site KRA-00081
+CELL_00082,Russia,Krasnodar Krai,Krasnodar,3G,Site KRA-00082
+CELL_00083,Russia,Moscow,Moscow,4G,Site MOS-00083
+CELL_00084,Russia,Saint Petersburg,Saint Petersburg,5G,Site SAI-00084
+CELL_00085,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00085
+CELL_00086,Russia,Moscow,Moscow,4G,Site MOS-00086
+CELL_00087,Russia,Krasnodar Krai,Krasnodar,3G,Site KRA-00087
+CELL_00088,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00088
+CELL_00089,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00089
+CELL_00090,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00090
+CELL_00091,Russia,Moscow,Moscow,4G,Site MOS-00091
+CELL_00092,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00092
+CELL_00093,Russia,Saint Petersburg,Saint Petersburg,5G,Site SAI-00093
+CELL_00094,Russia,Novosibirsk Oblast,Novosibirsk,3G,Site NOV-00094
+CELL_00095,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00095
+CELL_00096,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00096
+CELL_00097,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00097
+CELL_00098,Russia,Krasnodar Krai,Krasnodar,3G,Site KRA-00098
+CELL_00099,Russia,Moscow,Moscow,5G,Site MOS-00099
+CELL_00100,Russia,Moscow,Moscow,5G,Site MOS-00100
+CELL_00101,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00101
+CELL_00102,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00102
+CELL_00103,Russia,Novosibirsk Oblast,Novosibirsk,5G,Site NOV-00103
+CELL_00104,Russia,Sverdlovsk Oblast,Yekaterinburg,5G,Site SVE-00104
+CELL_00105,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00105
+CELL_00106,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00106
+CELL_00107,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00107
+CELL_00108,Russia,Moscow,Moscow,3G,Site MOS-00108
+CELL_00109,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00109
+CELL_00110,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00110
+CELL_00111,Russia,Moscow,Moscow,4G,Site MOS-00111
+CELL_00112,Russia,Moscow,Moscow,5G,Site MOS-00112
+CELL_00113,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00113
+CELL_00114,Russia,Krasnodar Krai,Krasnodar,3G,Site KRA-00114
+CELL_00115,Russia,Saint Petersburg,Saint Petersburg,3G,Site SAI-00115
+CELL_00116,Russia,Saint Petersburg,Saint Petersburg,5G,Site SAI-00116
+CELL_00117,Russia,Novosibirsk Oblast,Novosibirsk,3G,Site NOV-00117
+CELL_00118,Russia,Saint Petersburg,Saint Petersburg,5G,Site SAI-00118
+CELL_00119,Russia,Moscow,Moscow,4G,Site MOS-00119
+CELL_00120,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00120
+CELL_00121,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00121
+CELL_00122,Russia,Saint Petersburg,Saint Petersburg,5G,Site SAI-00122
+CELL_00123,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00123
+CELL_00124,Russia,Moscow,Moscow,4G,Site MOS-00124
+CELL_00125,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00125
+CELL_00126,Russia,Krasnodar Krai,Krasnodar,3G,Site KRA-00126
+CELL_00127,Russia,Moscow,Moscow,5G,Site MOS-00127
+CELL_00128,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00128
+CELL_00129,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00129
+CELL_00130,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00130
+CELL_00131,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00131
+CELL_00132,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00132
+CELL_00133,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00133
+CELL_00134,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00134
+CELL_00135,Russia,Moscow,Moscow,4G,Site MOS-00135
+CELL_00136,Russia,Moscow,Moscow,4G,Site MOS-00136
+CELL_00137,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00137
+CELL_00138,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00138
+CELL_00139,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00139
+CELL_00140,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00140
+CELL_00141,Russia,Moscow,Moscow,5G,Site MOS-00141
+CELL_00142,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00142
+CELL_00143,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00143
+CELL_00144,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00144
+CELL_00145,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00145
+CELL_00146,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00146
+CELL_00147,Russia,Saint Petersburg,Saint Petersburg,5G,Site SAI-00147
+CELL_00148,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00148
+CELL_00149,Russia,Moscow,Moscow,4G,Site MOS-00149
+CELL_00150,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00150
+CELL_00151,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00151
+CELL_00152,Russia,Saint Petersburg,Saint Petersburg,3G,Site SAI-00152
+CELL_00153,Russia,Moscow,Moscow,5G,Site MOS-00153
+CELL_00154,Russia,Krasnodar Krai,Krasnodar,5G,Site KRA-00154
+CELL_00155,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00155
+CELL_00156,Russia,Sverdlovsk Oblast,Yekaterinburg,3G,Site SVE-00156
+CELL_00157,Russia,Sverdlovsk Oblast,Yekaterinburg,3G,Site SVE-00157
+CELL_00158,Russia,Krasnodar Krai,Krasnodar,3G,Site KRA-00158
+CELL_00159,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00159
+CELL_00160,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00160
+CELL_00161,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00161
+CELL_00162,Russia,Novosibirsk Oblast,Novosibirsk,5G,Site NOV-00162
+CELL_00163,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00163
+CELL_00164,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00164
+CELL_00165,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00165
+CELL_00166,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00166
+CELL_00167,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00167
+CELL_00168,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00168
+CELL_00169,Russia,Krasnodar Krai,Krasnodar,3G,Site KRA-00169
+CELL_00170,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00170
+CELL_00171,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00171
+CELL_00172,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00172
+CELL_00173,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00173
+CELL_00174,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00174
+CELL_00175,Russia,Sverdlovsk Oblast,Yekaterinburg,3G,Site SVE-00175
+CELL_00176,Russia,Saint Petersburg,Saint Petersburg,3G,Site SAI-00176
+CELL_00177,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00177
+CELL_00178,Russia,Sverdlovsk Oblast,Yekaterinburg,3G,Site SVE-00178
+CELL_00179,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00179
+CELL_00180,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00180
+CELL_00181,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00181
+CELL_00182,Russia,Sverdlovsk Oblast,Yekaterinburg,3G,Site SVE-00182
+CELL_00183,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00183
+CELL_00184,Russia,Moscow,Moscow,5G,Site MOS-00184
+CELL_00185,Russia,Moscow,Moscow,4G,Site MOS-00185
+CELL_00186,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00186
+CELL_00187,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00187
+CELL_00188,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00188
+CELL_00189,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00189
+CELL_00190,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00190
+CELL_00191,Russia,Moscow,Moscow,3G,Site MOS-00191
+CELL_00192,Russia,Moscow,Moscow,3G,Site MOS-00192
+CELL_00193,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00193
+CELL_00194,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00194
+CELL_00195,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00195
+CELL_00196,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00196
+CELL_00197,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00197
+CELL_00198,Russia,Sverdlovsk Oblast,Yekaterinburg,5G,Site SVE-00198
+CELL_00199,Russia,Novosibirsk Oblast,Novosibirsk,3G,Site NOV-00199
+CELL_00200,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00200
+CELL_00201,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00201
+CELL_00202,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00202
+CELL_00203,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00203
+CELL_00204,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00204
+CELL_00205,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00205
+CELL_00206,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00206
+CELL_00207,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00207
+CELL_00208,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00208
+CELL_00209,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00209
+CELL_00210,Russia,Novosibirsk Oblast,Novosibirsk,3G,Site NOV-00210
+CELL_00211,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00211
+CELL_00212,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00212
+CELL_00213,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00213
+CELL_00214,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00214
+CELL_00215,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00215
+CELL_00216,Russia,Moscow,Moscow,5G,Site MOS-00216
+CELL_00217,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00217
+CELL_00218,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00218
+CELL_00219,Russia,Novosibirsk Oblast,Novosibirsk,3G,Site NOV-00219
+CELL_00220,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00220
+CELL_00221,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00221
+CELL_00222,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00222
+CELL_00223,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00223
+CELL_00224,Russia,Saint Petersburg,Saint Petersburg,5G,Site SAI-00224
+CELL_00225,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00225
+CELL_00226,Russia,Krasnodar Krai,Krasnodar,3G,Site KRA-00226
+CELL_00227,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00227
+CELL_00228,Russia,Saint Petersburg,Saint Petersburg,5G,Site SAI-00228
+CELL_00229,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00229
+CELL_00230,Russia,Moscow,Moscow,4G,Site MOS-00230
+CELL_00231,Russia,Saint Petersburg,Saint Petersburg,5G,Site SAI-00231
+CELL_00232,Russia,Moscow,Moscow,4G,Site MOS-00232
+CELL_00233,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00233
+CELL_00234,Russia,Moscow,Moscow,3G,Site MOS-00234
+CELL_00235,Russia,Sverdlovsk Oblast,Yekaterinburg,3G,Site SVE-00235
+CELL_00236,Russia,Sverdlovsk Oblast,Yekaterinburg,5G,Site SVE-00236
+CELL_00237,Russia,Moscow,Moscow,5G,Site MOS-00237
+CELL_00238,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00238
+CELL_00239,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00239
+CELL_00240,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00240
+CELL_00241,Russia,Sverdlovsk Oblast,Yekaterinburg,3G,Site SVE-00241
+CELL_00242,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00242
+CELL_00243,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00243
+CELL_00244,Russia,Moscow,Moscow,4G,Site MOS-00244
+CELL_00245,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00245
+CELL_00246,Russia,Saint Petersburg,Saint Petersburg,5G,Site SAI-00246
+CELL_00247,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00247
+CELL_00248,Russia,Sverdlovsk Oblast,Yekaterinburg,5G,Site SVE-00248
+CELL_00249,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00249
+CELL_00250,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00250
+CELL_00251,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00251
+CELL_00252,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00252
+CELL_00253,Russia,Novosibirsk Oblast,Novosibirsk,5G,Site NOV-00253
+CELL_00254,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00254
+CELL_00255,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00255
+CELL_00256,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00256
+CELL_00257,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00257
+CELL_00258,Russia,Krasnodar Krai,Krasnodar,3G,Site KRA-00258
+CELL_00259,Russia,Novosibirsk Oblast,Novosibirsk,5G,Site NOV-00259
+CELL_00260,Russia,Saint Petersburg,Saint Petersburg,3G,Site SAI-00260
+CELL_00261,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00261
+CELL_00262,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00262
+CELL_00263,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00263
+CELL_00264,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00264
+CELL_00265,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00265
+CELL_00266,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00266
+CELL_00267,Russia,Moscow,Moscow,4G,Site MOS-00267
+CELL_00268,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00268
+CELL_00269,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00269
+CELL_00270,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00270
+CELL_00271,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00271
+CELL_00272,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00272
+CELL_00273,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00273
+CELL_00274,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00274
+CELL_00275,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00275
+CELL_00276,Russia,Novosibirsk Oblast,Novosibirsk,3G,Site NOV-00276
+CELL_00277,Russia,Sverdlovsk Oblast,Yekaterinburg,5G,Site SVE-00277
+CELL_00278,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00278
+CELL_00279,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00279
+CELL_00280,Russia,Moscow,Moscow,3G,Site MOS-00280
+CELL_00281,Russia,Moscow,Moscow,3G,Site MOS-00281
+CELL_00282,Russia,Saint Petersburg,Saint Petersburg,3G,Site SAI-00282
+CELL_00283,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00283
+CELL_00284,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00284
+CELL_00285,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00285
+CELL_00286,Russia,Krasnodar Krai,Krasnodar,3G,Site KRA-00286
+CELL_00287,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00287
+CELL_00288,Russia,Krasnodar Krai,Krasnodar,3G,Site KRA-00288
+CELL_00289,Russia,Novosibirsk Oblast,Novosibirsk,3G,Site NOV-00289
+CELL_00290,Russia,Krasnodar Krai,Krasnodar,3G,Site KRA-00290
+CELL_00291,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00291
+CELL_00292,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00292
+CELL_00293,Russia,Novosibirsk Oblast,Novosibirsk,3G,Site NOV-00293
+CELL_00294,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00294
+CELL_00295,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00295
+CELL_00296,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00296
+CELL_00297,Russia,Saint Petersburg,Saint Petersburg,3G,Site SAI-00297
+CELL_00298,Russia,Saint Petersburg,Saint Petersburg,3G,Site SAI-00298
+CELL_00299,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00299
+CELL_00300,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00300
+CELL_00301,Russia,Sverdlovsk Oblast,Yekaterinburg,5G,Site SVE-00301
+CELL_00302,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00302
+CELL_00303,Russia,Sverdlovsk Oblast,Yekaterinburg,3G,Site SVE-00303
+CELL_00304,Russia,Krasnodar Krai,Krasnodar,3G,Site KRA-00304
+CELL_00305,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00305
+CELL_00306,Russia,Saint Petersburg,Saint Petersburg,3G,Site SAI-00306
+CELL_00307,Russia,Moscow,Moscow,3G,Site MOS-00307
+CELL_00308,Russia,Moscow,Moscow,5G,Site MOS-00308
+CELL_00309,Russia,Novosibirsk Oblast,Novosibirsk,5G,Site NOV-00309
+CELL_00310,Russia,Moscow,Moscow,4G,Site MOS-00310
+CELL_00311,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00311
+CELL_00312,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00312
+CELL_00313,Russia,Moscow,Moscow,4G,Site MOS-00313
+CELL_00314,Russia,Saint Petersburg,Saint Petersburg,3G,Site SAI-00314
+CELL_00315,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00315
+CELL_00316,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00316
+CELL_00317,Russia,Moscow,Moscow,3G,Site MOS-00317
+CELL_00318,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00318
+CELL_00319,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00319
+CELL_00320,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00320
+CELL_00321,Russia,Novosibirsk Oblast,Novosibirsk,3G,Site NOV-00321
+CELL_00322,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00322
+CELL_00323,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00323
+CELL_00324,Russia,Novosibirsk Oblast,Novosibirsk,3G,Site NOV-00324
+CELL_00325,Russia,Sverdlovsk Oblast,Yekaterinburg,5G,Site SVE-00325
+CELL_00326,Russia,Moscow,Moscow,4G,Site MOS-00326
+CELL_00327,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00327
+CELL_00328,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00328
+CELL_00329,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00329
+CELL_00330,Russia,Saint Petersburg,Saint Petersburg,3G,Site SAI-00330
+CELL_00331,Russia,Moscow,Moscow,4G,Site MOS-00331
+CELL_00332,Russia,Moscow,Moscow,4G,Site MOS-00332
+CELL_00333,Russia,Moscow,Moscow,4G,Site MOS-00333
+CELL_00334,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00334
+CELL_00335,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00335
+CELL_00336,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00336
+CELL_00337,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00337
+CELL_00338,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00338
+CELL_00339,Russia,Moscow,Moscow,4G,Site MOS-00339
+CELL_00340,Russia,Saint Petersburg,Saint Petersburg,3G,Site SAI-00340
+CELL_00341,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00341
+CELL_00342,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00342
+CELL_00343,Russia,Moscow,Moscow,4G,Site MOS-00343
+CELL_00344,Russia,Novosibirsk Oblast,Novosibirsk,3G,Site NOV-00344
+CELL_00345,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00345
+CELL_00346,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00346
+CELL_00347,Russia,Krasnodar Krai,Krasnodar,3G,Site KRA-00347
+CELL_00348,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00348
+CELL_00349,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00349
+CELL_00350,Russia,Moscow,Moscow,5G,Site MOS-00350
+CELL_00351,Russia,Moscow,Moscow,3G,Site MOS-00351
+CELL_00352,Russia,Moscow,Moscow,5G,Site MOS-00352
+CELL_00353,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00353
+CELL_00354,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00354
+CELL_00355,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00355
+CELL_00356,Russia,Sverdlovsk Oblast,Yekaterinburg,3G,Site SVE-00356
+CELL_00357,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00357
+CELL_00358,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00358
+CELL_00359,Russia,Saint Petersburg,Saint Petersburg,5G,Site SAI-00359
+CELL_00360,Russia,Novosibirsk Oblast,Novosibirsk,5G,Site NOV-00360
+CELL_00361,Russia,Novosibirsk Oblast,Novosibirsk,3G,Site NOV-00361
+CELL_00362,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00362
+CELL_00363,Russia,Krasnodar Krai,Krasnodar,5G,Site KRA-00363
+CELL_00364,Russia,Novosibirsk Oblast,Novosibirsk,3G,Site NOV-00364
+CELL_00365,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00365
+CELL_00366,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00366
+CELL_00367,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00367
+CELL_00368,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00368
+CELL_00369,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00369
+CELL_00370,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00370
+CELL_00371,Russia,Moscow,Moscow,5G,Site MOS-00371
+CELL_00372,Russia,Saint Petersburg,Saint Petersburg,5G,Site SAI-00372
+CELL_00373,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00373
+CELL_00374,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00374
+CELL_00375,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00375
+CELL_00376,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00376
+CELL_00377,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00377
+CELL_00378,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00378
+CELL_00379,Russia,Moscow,Moscow,3G,Site MOS-00379
+CELL_00380,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00380
+CELL_00381,Russia,Sverdlovsk Oblast,Yekaterinburg,5G,Site SVE-00381
+CELL_00382,Russia,Moscow,Moscow,4G,Site MOS-00382
+CELL_00383,Russia,Moscow,Moscow,5G,Site MOS-00383
+CELL_00384,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00384
+CELL_00385,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00385
+CELL_00386,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00386
+CELL_00387,Russia,Moscow,Moscow,4G,Site MOS-00387
+CELL_00388,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00388
+CELL_00389,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00389
+CELL_00390,Russia,Moscow,Moscow,4G,Site MOS-00390
+CELL_00391,Russia,Novosibirsk Oblast,Novosibirsk,3G,Site NOV-00391
+CELL_00392,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00392
+CELL_00393,Russia,Moscow,Moscow,4G,Site MOS-00393
+CELL_00394,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00394
+CELL_00395,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00395
+CELL_00396,Russia,Sverdlovsk Oblast,Yekaterinburg,3G,Site SVE-00396
+CELL_00397,Russia,Sverdlovsk Oblast,Yekaterinburg,3G,Site SVE-00397
+CELL_00398,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00398
+CELL_00399,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00399
+CELL_00400,Russia,Sverdlovsk Oblast,Yekaterinburg,3G,Site SVE-00400
+CELL_00401,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00401
+CELL_00402,Russia,Novosibirsk Oblast,Novosibirsk,3G,Site NOV-00402
+CELL_00403,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00403
+CELL_00404,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00404
+CELL_00405,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00405
+CELL_00406,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00406
+CELL_00407,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00407
+CELL_00408,Russia,Moscow,Moscow,4G,Site MOS-00408
+CELL_00409,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00409
+CELL_00410,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00410
+CELL_00411,Russia,Novosibirsk Oblast,Novosibirsk,3G,Site NOV-00411
+CELL_00412,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00412
+CELL_00413,Russia,Moscow,Moscow,5G,Site MOS-00413
+CELL_00414,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00414
+CELL_00415,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00415
+CELL_00416,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00416
+CELL_00417,Russia,Moscow,Moscow,4G,Site MOS-00417
+CELL_00418,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00418
+CELL_00419,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00419
+CELL_00420,Russia,Krasnodar Krai,Krasnodar,5G,Site KRA-00420
+CELL_00421,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00421
+CELL_00422,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00422
+CELL_00423,Russia,Moscow,Moscow,4G,Site MOS-00423
+CELL_00424,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00424
+CELL_00425,Russia,Saint Petersburg,Saint Petersburg,5G,Site SAI-00425
+CELL_00426,Russia,Moscow,Moscow,5G,Site MOS-00426
+CELL_00427,Russia,Moscow,Moscow,4G,Site MOS-00427
+CELL_00428,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00428
+CELL_00429,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00429
+CELL_00430,Russia,Moscow,Moscow,5G,Site MOS-00430
+CELL_00431,Russia,Krasnodar Krai,Krasnodar,3G,Site KRA-00431
+CELL_00432,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00432
+CELL_00433,Russia,Moscow,Moscow,4G,Site MOS-00433
+CELL_00434,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00434
+CELL_00435,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00435
+CELL_00436,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00436
+CELL_00437,Russia,Moscow,Moscow,3G,Site MOS-00437
+CELL_00438,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00438
+CELL_00439,Russia,Saint Petersburg,Saint Petersburg,5G,Site SAI-00439
+CELL_00440,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00440
+CELL_00441,Russia,Saint Petersburg,Saint Petersburg,5G,Site SAI-00441
+CELL_00442,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00442
+CELL_00443,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00443
+CELL_00444,Russia,Krasnodar Krai,Krasnodar,3G,Site KRA-00444
+CELL_00445,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00445
+CELL_00446,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00446
+CELL_00447,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00447
+CELL_00448,Russia,Moscow,Moscow,4G,Site MOS-00448
+CELL_00449,Russia,Moscow,Moscow,4G,Site MOS-00449
+CELL_00450,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00450
+CELL_00451,Russia,Moscow,Moscow,4G,Site MOS-00451
+CELL_00452,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00452
+CELL_00453,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00453
+CELL_00454,Russia,Sverdlovsk Oblast,Yekaterinburg,3G,Site SVE-00454
+CELL_00455,Russia,Sverdlovsk Oblast,Yekaterinburg,3G,Site SVE-00455
+CELL_00456,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00456
+CELL_00457,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00457
+CELL_00458,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00458
+CELL_00459,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00459
+CELL_00460,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00460
+CELL_00461,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00461
+CELL_00462,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00462
+CELL_00463,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00463
+CELL_00464,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00464
+CELL_00465,Russia,Krasnodar Krai,Krasnodar,3G,Site KRA-00465
+CELL_00466,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00466
+CELL_00467,Russia,Moscow,Moscow,4G,Site MOS-00467
+CELL_00468,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00468
+CELL_00469,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00469
+CELL_00470,Russia,Sverdlovsk Oblast,Yekaterinburg,5G,Site SVE-00470
+CELL_00471,Russia,Novosibirsk Oblast,Novosibirsk,3G,Site NOV-00471
+CELL_00472,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00472
+CELL_00473,Russia,Saint Petersburg,Saint Petersburg,5G,Site SAI-00473
+CELL_00474,Russia,Moscow,Moscow,4G,Site MOS-00474
+CELL_00475,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00475
+CELL_00476,Russia,Saint Petersburg,Saint Petersburg,5G,Site SAI-00476
+CELL_00477,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00477
+CELL_00478,Russia,Moscow,Moscow,4G,Site MOS-00478
+CELL_00479,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00479
+CELL_00480,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00480
+CELL_00481,Russia,Novosibirsk Oblast,Novosibirsk,3G,Site NOV-00481
+CELL_00482,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00482
+CELL_00483,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00483
+CELL_00484,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00484
+CELL_00485,Russia,Sverdlovsk Oblast,Yekaterinburg,3G,Site SVE-00485
+CELL_00486,Russia,Krasnodar Krai,Krasnodar,3G,Site KRA-00486
+CELL_00487,Russia,Moscow,Moscow,4G,Site MOS-00487
+CELL_00488,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00488
+CELL_00489,Russia,Krasnodar Krai,Krasnodar,4G,Site KRA-00489
+CELL_00490,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00490
+CELL_00491,Russia,Krasnodar Krai,Krasnodar,3G,Site KRA-00491
+CELL_00492,Russia,Moscow,Moscow,4G,Site MOS-00492
+CELL_00493,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00493
+CELL_00494,Russia,Sverdlovsk Oblast,Yekaterinburg,4G,Site SVE-00494
+CELL_00495,Russia,Moscow,Moscow,5G,Site MOS-00495
+CELL_00496,Russia,Novosibirsk Oblast,Novosibirsk,3G,Site NOV-00496
+CELL_00497,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00497
+CELL_00498,Russia,Novosibirsk Oblast,Novosibirsk,4G,Site NOV-00498
+CELL_00499,Russia,Saint Petersburg,Saint Petersburg,4G,Site SAI-00499
+CELL_00500,Russia,Moscow,Moscow,5G,Site MOS-00500

@@ -1,0 +1,4 @@
+service_code,service_name,service_group,is_recurring
+VOICE,Voice calls,voice,False
+SMS,SMS messaging,sms,False
+DATA,Mobile Internet,data,False
