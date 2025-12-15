@@ -124,4 +124,23 @@ SELECT * FROM v_churn_monthly ORDER BY year, month LIMIT 12;
 SELECT * FROM v_network_daily ORDER BY date DESC LIMIT 20;
 ```
 
+
+Основной отчёт:
+```sql
+SELECT
+    d.year,
+    d.month,
+    t.tariff_name,
+    s.segment,
+    SUM(u.revenue_amount)                         AS revenue_total,
+    COUNT(DISTINCT u.subscriber_key)              AS active_subscribers,
+    ROUND(SUM(u.revenue_amount) / NULLIF(COUNT(DISTINCT u.subscriber_key), 0), 2) AS arpu
+FROM fact_usage u
+JOIN dim_date d        ON d.date_key = u.date_key
+JOIN dim_subscriber s  ON s.subscriber_key = u.subscriber_key
+LEFT JOIN dim_tariff t ON t.tariff_key = u.tariff_key
+WHERE (d.year BETWEEN 2024 AND 2026)
+GROUP BY d.year, d.month, t.tariff_name, s.segment
+ORDER BY d.year, d.month, t.tariff_name, s.segment;
+```
 ---
